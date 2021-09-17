@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9df7f3ad-3765-4f29-a81d-ffc39d88c776" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Software_and_Design___Assignment_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Software and Design - Assignment 1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Software and Design - Assignment 1/AbstractVehiclePartsFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Software and Design - Assignment 1/CarEngine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Software and Design - Assignment 1/CarLights.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Software and Design - Assignment 1/CarPartsFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Software and Design - Assignment 1/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Software and Design - Assignment 1/Engine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Software and Design - Assignment 1/Lights.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Software and Design - Assignment 1/Manufacturer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Software and Design - Assignment 1/PlaneEngine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Software and Design - Assignment 1/PlaneLights.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Software and Design - Assignment 1/PlanePartsFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AbstractVehiclePartsFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CarEngine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CarLights.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CarPartsFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Engine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lights.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Manufacturer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PlaneEngine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PlaneLights.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PlanePartsFactory.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1yHl4hoITav7PUyqOkhpAlvxsbd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo" />
+      <module name="Software and Design - Assignment 1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9df7f3ad-3765-4f29-a81d-ffc39d88c776" name="Default Changelist" comment="" />
+      <created>1631916206508</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631916206508</updated>
+      <workItem from="1631916208372" duration="1045000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
