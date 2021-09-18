@@ -1,6 +1,6 @@
 public interface Lights {
-    public boolean on();
-    public boolean off();
-    public void setName(String name);
-    public void setPrice(float price);
+    boolean on();
+    boolean off();
+    void setName(String name);
+    void setPrice(float price);
 }

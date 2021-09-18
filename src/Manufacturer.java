@@ -5,16 +5,6 @@ public class Manufacturer {
     public Manufacturer(AbstractVehiclePartsFactory factory){
         engine = factory.createEngine();
         lights = factory.createLights();
-
-
-
-
-
-//        engine.setName("Engine1");
-//        engine.setPrice(99.56f);
-//
-//        lights.setName("Lights1");
-//        lights.setPrice(.0999f);
     }
 
     public Engine getEngine() {

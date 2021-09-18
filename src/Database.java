@@ -14,11 +14,10 @@ public class Database {
 
         //Read File Line By Line
         while ((strLine = br.readLine()) != null)   {
-            // Print the content on the console
+            // split each line and add it to db
 
             db.add( strLine.split(","));
 
-//            System.out.println (strLine);
         }
 
         //Close the input stream
@@ -35,13 +34,6 @@ public class Database {
 
     public static void main(String[] args) throws IOException {
         initDatabase();
-//        for(String[] vehiclePart: db) {
-//            for (String attrb : vehiclePart) {
-//                System.out.print(attrb + " | ");
-//            }
-//            System.out.println("");
-//        }
-        System.out.println(db.get(0)[1]);
     }
 }
 

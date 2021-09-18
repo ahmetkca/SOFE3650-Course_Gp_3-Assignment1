@@ -1,6 +1,6 @@
 public interface Engine{
-    public boolean start();
-    public boolean stop();
-    public void setName(String name);
-    public void setPrice(float price);
+    boolean start();
+    boolean stop();
+    void setName(String name);
+    void setPrice(float price);
 }

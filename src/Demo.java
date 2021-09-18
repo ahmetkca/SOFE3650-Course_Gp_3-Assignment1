@@ -1,4 +1,3 @@
-import java.io.IOException;
 import java.util.Random;
 import java.util.Scanner;
 
@@ -9,8 +8,6 @@ public class Demo {
     private static Manufacturer ManufacturerConfiguration(String manufacturerType) throws Exception {
         AbstractVehiclePartsFactory factory;
         Manufacturer manufacturer;
-
-
 
         if (manufacturerType.equalsIgnoreCase("car")){
             factory = new CarPartsFactory();
@@ -73,7 +70,7 @@ public class Demo {
             }
             System.out.print("Select one: ");
             int factoryType = sc.nextInt();
-//            int selection = random.nextInt(types.length);
+
             Manufacturer manufacturer = ManufacturerConfiguration(types[factoryType-1]);
 
             manufacturer.displayVehicleParts();

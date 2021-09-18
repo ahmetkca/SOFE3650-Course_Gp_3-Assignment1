@@ -2,27 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f3a077d-69e6-41f8-8c00-79b1b5177cbd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/db.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Database.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SOFE3650-Course_Gp_3-Assignment1/CarEngine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SOFE3650-Course_Gp_3-Assignment1/CarEngine.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SOFE3650-Course_Gp_3-Assignment1/CarLights.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SOFE3650-Course_Gp_3-Assignment1/CarLights.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SOFE3650-Course_Gp_3-Assignment1/CarPartsFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SOFE3650-Course_Gp_3-Assignment1/CarPartsFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SOFE3650-Course_Gp_3-Assignment1/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SOFE3650-Course_Gp_3-Assignment1/Demo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SOFE3650-Course_Gp_3-Assignment1/Engine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SOFE3650-Course_Gp_3-Assignment1/Engine.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SOFE3650-Course_Gp_3-Assignment1/Lights.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SOFE3650-Course_Gp_3-Assignment1/Lights.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SOFE3650-Course_Gp_3-Assignment1/Manufacturer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SOFE3650-Course_Gp_3-Assignment1/Manufacturer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SOFE3650-Course_Gp_3-Assignment1/PlaneEngine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SOFE3650-Course_Gp_3-Assignment1/PlaneEngine.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SOFE3650-Course_Gp_3-Assignment1/PlaneLights.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SOFE3650-Course_Gp_3-Assignment1/PlaneLights.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CarEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CarEngine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CarLights.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CarLights.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CarPartsFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CarPartsFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Engine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lights.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lights.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Manufacturer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Manufacturer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PlaneEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PlaneEngine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PlaneLights.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PlaneLights.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Database.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +34,9 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -100,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1631917722527</updated>
-      <workItem from="1631917724168" duration="5916000" />
+      <workItem from="1631917724168" duration="7817000" />
     </task>
     <servers />
   </component>
