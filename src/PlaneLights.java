@@ -1,8 +1,10 @@
 public class PlaneLights implements Lights{
     private String name;
+    private float price;
 
     public PlaneLights(){
-        this.name = "Plane Lights";
+        this.name = "[PLACEHOLDER] Plane Lights";
+        this.price = -1;
     }
 
     @Override
@@ -19,6 +21,16 @@ public class PlaneLights implements Lights{
 
     @Override
     public String toString() {
-        return this.name;
+        return "Name: " + this.name + "\tPrice: " + this.price;
+    }
+
+    @Override
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    @Override
+    public void setPrice(float price) {
+        this.price = price;
     }
 }

@@ -1,8 +1,10 @@
 public class PlaneEngine implements Engine{
     private String name;
+    private float price;
 
     public PlaneEngine(){
-        this.name = "Plane Engine";
+        this.name = "[PLACEHOLDER] Plane Engine";
+        this.price = -1;
     }
 
     @Override
@@ -19,6 +21,16 @@ public class PlaneEngine implements Engine{
 
     @Override
     public String toString() {
-        return this.name;
+        return "Name: " + this.name + "\tPrice: " + this.price;
+    }
+
+    @Override
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    @Override
+    public void setPrice(float price) {
+        this.price = price;
     }
 }

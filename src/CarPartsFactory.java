@@ -8,6 +8,9 @@ public class CarPartsFactory implements AbstractVehiclePartsFactory{
     @Override
     public Lights createLights() {
         System.out.println("Created new Car Lights.");
+
         return new CarLights();
     }
+
+
 }

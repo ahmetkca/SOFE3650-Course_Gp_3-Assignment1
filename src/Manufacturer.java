@@ -5,6 +5,24 @@ public class Manufacturer {
     public Manufacturer(AbstractVehiclePartsFactory factory){
         engine = factory.createEngine();
         lights = factory.createLights();
+
+
+
+
+
+//        engine.setName("Engine1");
+//        engine.setPrice(99.56f);
+//
+//        lights.setName("Lights1");
+//        lights.setPrice(.0999f);
+    }
+
+    public Engine getEngine() {
+        return engine;
+    }
+
+    public Lights getLights() {
+        return lights;
     }
 
     public boolean isTestEngineSuccessful(){
@@ -12,18 +30,21 @@ public class Manufacturer {
         boolean testStart = engine.start();
         boolean testStop = engine.stop();
 
-        boolean success = testStart && testStop;
-
-        return success;
+        return testStart && testStop;
     }
 
     public boolean isTestLightsSuccessful(){
-        System.out.println("Engine Test Commencing...");
+        System.out.println("Lights Test Commencing...");
         boolean testOn = lights.on();
         boolean testOff = lights.off();
 
-        boolean success = testOn && testOff;
+        return testOn && testOff;
+    }
 
-        return success;
+    public void displayVehicleParts() {
+        System.out.println("Engine: ");
+        System.out.println(engine);
+        System.out.println("Lights: ");
+        System.out.println(lights);
     }
 }

@@ -1,9 +1,11 @@
 public class CarEngine implements Engine{
 
     private String name;
+    private float price;
 
     public CarEngine(){
-        this.name = "Car Engine";
+        this.name = "[PLACEHOLDER] Car Engine";
+        this.price = -1;
     }
 
     @Override
@@ -19,7 +21,17 @@ public class CarEngine implements Engine{
     }
 
     @Override
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    @Override
+    public void setPrice(float price) {
+        this.price = price;
+    }
+
+    @Override
     public String toString() {
-        return this.name;
+        return "Name: " + this.name + "\tPrice: " + this.price;
     }
 }

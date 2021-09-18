@@ -2,27 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f3a077d-69e6-41f8-8c00-79b1b5177cbd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SOFE3650-Course_Gp_3-Assignment1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Software and Design - Assignment 1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Software_and_Design_-_Assignment_1/Software and Design - Assignment 1/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Software and Design - Assignment 1/AbstractVehiclePartsFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Software and Design - Assignment 1/CarEngine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Software and Design - Assignment 1/CarLights.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Software and Design - Assignment 1/CarPartsFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Software and Design - Assignment 1/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Software and Design - Assignment 1/Engine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Software and Design - Assignment 1/Lights.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Software and Design - Assignment 1/Manufacturer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Software and Design - Assignment 1/PlaneEngine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Software and Design - Assignment 1/PlaneLights.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Software and Design - Assignment 1/PlanePartsFactory.class" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Database.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SOFE3650-Course_Gp_3-Assignment1/CarEngine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SOFE3650-Course_Gp_3-Assignment1/CarEngine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SOFE3650-Course_Gp_3-Assignment1/CarLights.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SOFE3650-Course_Gp_3-Assignment1/CarLights.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SOFE3650-Course_Gp_3-Assignment1/CarPartsFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SOFE3650-Course_Gp_3-Assignment1/CarPartsFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SOFE3650-Course_Gp_3-Assignment1/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SOFE3650-Course_Gp_3-Assignment1/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SOFE3650-Course_Gp_3-Assignment1/Engine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SOFE3650-Course_Gp_3-Assignment1/Engine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SOFE3650-Course_Gp_3-Assignment1/Lights.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SOFE3650-Course_Gp_3-Assignment1/Lights.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SOFE3650-Course_Gp_3-Assignment1/Manufacturer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SOFE3650-Course_Gp_3-Assignment1/Manufacturer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SOFE3650-Course_Gp_3-Assignment1/PlaneEngine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SOFE3650-Course_Gp_3-Assignment1/PlaneEngine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SOFE3650-Course_Gp_3-Assignment1/PlaneLights.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SOFE3650-Course_Gp_3-Assignment1/PlaneLights.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CarEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CarEngine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CarLights.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CarLights.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CarPartsFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CarPartsFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Engine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lights.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lights.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Manufacturer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Manufacturer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PlaneEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PlaneEngine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PlaneLights.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PlaneLights.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -37,8 +49,24 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\SoftwareAssignments\SOFE3650-Course_Gp_3-Assignment1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Demo">
+    <configuration name="Database" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Database" />
+      <module name="SOFE3650-Course_Gp_3-Assignment1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Demo" />
       <module name="SOFE3650-Course_Gp_3-Assignment1" />
@@ -60,9 +88,11 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.Database" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="7f3a077d-69e6-41f8-8c00-79b1b5177cbd" name="Default Changelist" comment="" />
@@ -70,7 +100,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1631917722527</updated>
+      <workItem from="1631917724168" duration="5916000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

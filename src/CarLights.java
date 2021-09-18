@@ -1,8 +1,11 @@
 public class CarLights implements Lights{
+
     private String name;
+    private float price;
 
     public CarLights(){
-        this.name = "Car Lights";
+        this.name = "[PLACEHOLDER] Car Lights";
+        this.price = -1;
     }
 
     @Override
@@ -19,6 +22,18 @@ public class CarLights implements Lights{
 
     @Override
     public String toString() {
-        return this.name;
+        return "Name: " + this.name + "\tPrice: " + this.price;
     }
+
+    @Override
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    @Override
+    public void setPrice(float price) {
+        this.price = price;
+    }
+
+
 }
