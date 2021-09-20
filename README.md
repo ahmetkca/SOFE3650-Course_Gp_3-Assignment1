@@ -1,7 +1,7 @@
 # SOFE3650-Course_Gp_3-Assignment1
 
 # Table of Contents
-1. [**Source Code**](#/src)
+1. [**Source Code**](/src)
     1. [AbstractVehiclePartsFactory](/src/AbstractVehiclePartsFactory.java/)
     2. [PlanePartsFactory](/src/PlanePartsFactory.java/)
     3. [CarPartsFactory](/src/CarPartsFactory.java/)
@@ -14,3 +14,8 @@
     10. [Database](/src/Database.java/)
     11. [Manufacturer (Application)](/src/Manufacturer.java/)
     12. [Demo (DriverTest)](/src/Demo.java/)
+2. [**UML Diagram**](/UML-Digram-Finished.png)
+    1. ![UML Diagram](/UML-Digram-Finished.png/)
+4. [**Screen Dumps**](/images.png)
+    1. ![Test for Car Factory](/images/output1.java/)
+    2. ![Test for Plane Factory](/images/output2.java/)
