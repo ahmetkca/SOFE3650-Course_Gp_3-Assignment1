@@ -1,0 +1,3 @@
+# SOFE3650-Course_Gp_3-Assignment1
+
+Ahmet Karapinar - 100750048
