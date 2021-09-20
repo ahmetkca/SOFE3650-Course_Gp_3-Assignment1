@@ -17,5 +17,5 @@
 2. [**UML Diagram**](/UML-Digram-Finished.png)
     1. ![UML Diagram](/UML-Digram-Finished.png/)
 4. [**Screen Dumps**](/images.png)
-    1. ![Test for Car Factory](/images/output1.java/)
-    2. ![Test for Plane Factory](/images/output2.java/)
+    1. ![Test for Car Factory](/images/output1.png/)
+    2. ![Test for Plane Factory](/images/output2.png/)
